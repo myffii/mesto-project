@@ -1,0 +1,10 @@
+.place__like-counter {
+  position: absolute;
+  bottom: 22px;
+  right: 26px;
+  width: 10px;
+  height: 13px;
+  color: #000;
+  font-size: 13px;
+  line-height: 16px;
+}

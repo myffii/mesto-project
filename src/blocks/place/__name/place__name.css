@@ -1,0 +1,17 @@
+.place__name {
+  margin: 0;
+  padding: 25px 55px 31px 21px;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 900;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  max-height: 23px;
+}
+
+@media screen and (max-width: 767px) {
+  .place__name {
+    margin-bottom: 25px;
+  }
+}

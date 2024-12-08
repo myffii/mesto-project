@@ -1,0 +1,5 @@
+.popup_type_image {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, .9);
+}

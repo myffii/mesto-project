@@ -1,0 +1,7 @@
+.place__photo {
+  object-fit: cover;
+  border-radius: 10px 10px 0 0;
+  aspect-ratio: 1;
+  max-height: 282px;
+  width: 100%;
+}
